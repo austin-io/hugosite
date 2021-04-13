@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TITLE</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on TITLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 17:09:37 -0700</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bro</title>
+      <link>https://example.com/tags/bro/</link>
+      <pubDate>Sun, 11 Apr 2021 17:09:37 -0700</pubDate>
+      
+      <guid>https://example.com/tags/bro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://example.com/tags/tech/</link>
+      <pubDate>Sun, 11 Apr 2021 17:09:37 -0700</pubDate>
+      
+      <guid>https://example.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>day</title>
+      <link>https://example.com/tags/day/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fashion</title>
+      <link>https://example.com/tags/fashion/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lifestyle</title>
+      <link>https://example.com/tags/lifestyle/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tour</title>
+      <link>https://example.com/tags/tour/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visit</title>
+      <link>https://example.com/tags/visit/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/visit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://example.com/tags/work/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://example.com/tags/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

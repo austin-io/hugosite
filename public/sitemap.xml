@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2021-04-13T11:15:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/bro/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/home/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tech/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-04-11T17:09:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/day/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/fashion/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/post-4/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/lifestyle/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/lifestyle/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/operations/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/post-3/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/post-2/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tour/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/tour/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/visit/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/work/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/working-days/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/post-1/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/hello/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/showcase/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/sample-page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/search/</loc>
+  </url>
+  
+</urlset>

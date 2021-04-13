@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bro on TITLE</title>
+    <link>https://example.com/tags/bro/</link>
+    <description>Recent content in bro on TITLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 17:09:37 -0700</lastBuildDate><atom:link href="https://example.com/tags/bro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://example.com/post/home/</link>
+      <pubDate>Sun, 11 Apr 2021 17:09:37 -0700</pubDate>
+      
+      <guid>https://example.com/post/home/</guid>
+      <description>Hey everyone That&amp;rsquo;s a reference to Spder-man from Civil War</description>
+    </item>
+    
+  </channel>
+</rss>
