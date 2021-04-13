@@ -14,6 +14,9 @@
       
       <guid>https://example.com/post/home/</guid>
       <description>Hey everyone That&amp;rsquo;s a reference to Spder-man from Civil War</description>
+      <content>&lt;h1 id=&#34;hey-everyone&#34;&gt;Hey everyone&lt;/h1&gt;
+&lt;p&gt;That&amp;rsquo;s a reference to Spder-man from Civil War&lt;/p&gt;
+</content>
     </item>
     
   </channel>
