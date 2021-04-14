@@ -19,5 +19,17 @@
   <script src="{{ "assets/languageSelector.js" | absURL }}"></script>
 {{ end }}
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 <!-- Extended footer section-->
 {{ partial "extended_footer.html" . }}
